@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5b7f459-e3ce-42ab-910a-94ec005830c4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="webpack.dev.conf.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.base.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ratings.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/ratings/ratings.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="goods.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/goods/goods.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4779">
+              <caret line="180" column="32" selection-start-line="180" selection-start-column="10" selection-end-line="180" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header/header.vue">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vue-loader.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/vue-loader.conf.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/build.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="check-versions.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/check-versions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2430">
+              <caret line="90" column="26" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>count</find>
+      <find>foodD</find>
+      <find>desc</find>
+      <find>star</find>
+      <find>showFlag</find>
+      <find>goods</find>
+      <find>select</find>
+      <find>selectF</find>
+      <find>padding:</find>
+      <find>foods</find>
+      <find>selectFoods</find>
+      <find>food</find>
+      <find>Bscroll</find>
+      <find>refs</find>
+      <find>vue</find>
+      <find>scroll</find>
+      <find>_initScroll()</find>
+      <find>content</find>
+      <find>console</find>
+      <find>border-1</find>
+      <find>:class</find>
+      <find>special</find>
+      <find>sell-count</find>
+      <find>none</find>
+      <find>pic</find>
+      <find>length</find>
+      <find>favo</find>
+      <find>saveT</find>
+      <find>app</find>
+      <find>0</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/HelloWorld.vue" />
+        <option value="$PROJECT_DIR$/static/css/reset.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/.eslintrc.js" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/build/webpack.dev.conf.js" />
+        <option value="$PROJECT_DIR$/src/common/stylus/index.styl" />
+        <option value="$PROJECT_DIR$/src/common/stylus/style.css" />
+        <option value="$PROJECT_DIR$/src/common/stylus/basic.styl" />
+        <option value="$PROJECT_DIR$/src/common/stylus/mixin.styl" />
+        <option value="$PROJECT_DIR$/src/components/cartcontrol/cartcontrol.vue" />
+        <option value="$PROJECT_DIR$/src/components/shopcart/shopcart.vue" />
+        <option value="$PROJECT_DIR$/src/components/split/split.vue" />
+        <option value="$PROJECT_DIR$/src/js/date.js" />
+        <option value="$PROJECT_DIR$/src/common/js/date.js" />
+        <option value="$PROJECT_DIR$/src/components/ratingselect/ratingselect.vue" />
+        <option value="$PROJECT_DIR$/src/components/star/star.vue" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/src/components/food/food.vue" />
+        <option value="$PROJECT_DIR$/src/components/ratings/ratings.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/components/goods/goods.vue" />
+        <option value="$PROJECT_DIR$/src/components/Header/header.vue" />
+        <option value="$PROJECT_DIR$/src/components/seller/seller.vue" />
+        <option value="$PROJECT_DIR$/src/common/js/util.js" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/common/js/store.js" />
+        <option value="$PROJECT_DIR$/build/webpack.base.conf.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="143" />
+    <option name="y" value="42" />
+    <option name="width" value="610" />
+    <option name="height" value="511" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="order" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="order" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="order" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="order" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="order" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="order" type="b2602c69:ProjectViewProjectNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\Sublime Text 3\pra\sell\node_modules\eslint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="E:\Sublime Text 3\pra\sell\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Sublime Text 3\pra\sell\src\components\seller" />
+      <recent name="E:\Sublime Text 3\pra\sell\src\components\goods" />
+      <recent name="E:\Sublime Text 3\pra\sell\src\components\Header" />
+      <recent name="E:\Sublime Text 3\pra\sell\src\components\star" />
+      <recent name="E:\Sublime Text 3\pra\sell\resource\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/src/router" />
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5b7f459-e3ce-42ab-910a-94ec005830c4" name="Default" comment="" />
+      <created>1529580159310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529580159310</updated>
+      <workItem from="1529580172486" duration="33112000" />
+      <workItem from="1529929020358" duration="627000" />
+      <workItem from="1530014907643" duration="47753000" />
+      <workItem from="1530505815798" duration="18418000" />
+      <workItem from="1530618662029" duration="4631000" />
+      <workItem from="1530676321396" duration="28681000" />
+      <workItem from="1530850986701" duration="14029000" />
+      <workItem from="1531111888165" duration="17913000" />
+      <workItem from="1531199333910" duration="13254000" />
+      <workItem from="1531388284268" duration="3993000" />
+      <workItem from="1531891526008" duration="29145000" />
+      <workItem from="1532058693382" duration="23286000" />
+      <workItem from="1532319503851" duration="1772000" />
+      <workItem from="1532322500320" duration="14631000" />
+      <workItem from="1532582412357" duration="23929000" />
+      <workItem from="1532665644791" duration="8643000" />
+      <workItem from="1532923783303" duration="1679000" />
+      <workItem from="1532925683379" duration="42659000" />
+      <workItem from="1533387915861" duration="1249000" />
+      <workItem from="1533466607164" duration="1525000" />
+      <workItem from="1533534359646" duration="1713000" />
+      <workItem from="1533536188738" duration="1140000" />
+      <workItem from="1533538247887" duration="1817000" />
+      <workItem from="1533547559462" duration="1780000" />
+      <workItem from="1533549382751" duration="1058000" />
+      <workItem from="1533574257670" duration="1215000" />
+      <workItem from="1533620255079" duration="1758000" />
+      <workItem from="1533707290124" duration="1783000" />
+      <workItem from="1533709180158" duration="1501000" />
+      <workItem from="1533711066178" duration="1248000" />
+      <workItem from="1533716538168" duration="1780000" />
+      <workItem from="1533718528455" duration="1490000" />
+      <workItem from="1533720424388" duration="1819000" />
+      <workItem from="1533722286844" duration="1781000" />
+      <workItem from="1533724407869" duration="1500000" />
+      <workItem from="1533738951478" duration="2386000" />
+      <workItem from="1533741649428" duration="1785000" />
+      <workItem from="1533743480512" duration="2274000" />
+      <workItem from="1533747446717" duration="1779000" />
+      <workItem from="1533749370683" duration="314000" />
+      <workItem from="1533886898503" duration="1170000" />
+      <workItem from="1533906247899" duration="1736000" />
+      <workItem from="1534048832154" duration="1323000" />
+      <workItem from="1534052266960" duration="599000" />
+      <workItem from="1534071377185" duration="1575000" />
+      <workItem from="1534073027363" duration="1755000" />
+      <workItem from="1534078163541" duration="1782000" />
+      <workItem from="1534080056713" duration="1799000" />
+      <workItem from="1534082480919" duration="1597000" />
+      <workItem from="1534084479354" duration="1958000" />
+      <workItem from="1534140084558" duration="1778000" />
+      <workItem from="1534141914688" duration="1780000" />
+      <workItem from="1534143734798" duration="1870000" />
+      <workItem from="1534145657058" duration="1374000" />
+      <workItem from="1534150286782" duration="1287000" />
+      <workItem from="1534179132487" duration="1517000" />
+      <workItem from="1534180816291" duration="1913000" />
+      <workItem from="1534182776580" duration="1069000" />
+      <workItem from="1534257817808" duration="839000" />
+      <workItem from="1534259888615" duration="1416000" />
+      <workItem from="1534261919661" duration="2212000" />
+      <workItem from="1534264424725" duration="758000" />
+      <workItem from="1534266261304" duration="1778000" />
+      <workItem from="1534268085681" duration="794000" />
+      <workItem from="1534324066559" duration="1790000" />
+      <workItem from="1534328665977" duration="1642000" />
+      <workItem from="1534331094303" duration="1780000" />
+      <workItem from="1534332926249" duration="1794000" />
+      <workItem from="1534334898295" duration="1646000" />
+      <workItem from="1534336734556" duration="335000" />
+      <workItem from="1534403989310" duration="598000" />
+      <workItem from="1534406144474" duration="1908000" />
+      <workItem from="1534408171134" duration="1778000" />
+      <workItem from="1534410095529" duration="1868000" />
+      <workItem from="1534412011918" duration="2033000" />
+      <workItem from="1534414097283" duration="1780000" />
+      <workItem from="1534415920538" duration="1776000" />
+      <workItem from="1534417744137" duration="204000" />
+      <workItem from="1534438810373" duration="1380000" />
+      <workItem from="1534441245611" duration="599000" />
+      <workItem from="1534568810260" duration="1406000" />
+      <workItem from="1534570655740" duration="2271000" />
+      <workItem from="1534573238192" duration="1779000" />
+      <workItem from="1534575061075" duration="1684000" />
+      <workItem from="1534660769160" duration="1744000" />
+      <workItem from="1534662610028" duration="1779000" />
+      <workItem from="1534664451045" duration="1779000" />
+      <workItem from="1534666270199" duration="2225000" />
+      <workItem from="1534671019926" duration="1783000" />
+      <workItem from="1534672852294" duration="1780000" />
+      <workItem from="1534674713970" duration="1779000" />
+      <workItem from="1534676553780" duration="830000" />
+      <workItem from="1534682665617" duration="1777000" />
+      <workItem from="1534684510696" duration="1753000" />
+      <workItem from="1534687672929" duration="1783000" />
+      <workItem from="1534689507977" duration="1779000" />
+      <workItem from="1534691325982" duration="1769000" />
+      <workItem from="1534693146798" duration="1957000" />
+      <workItem from="1534695157532" duration="2018000" />
+      <workItem from="1534741539908" duration="1622000" />
+      <workItem from="1534743209922" duration="1777000" />
+      <workItem from="1534745033403" duration="1776000" />
+      <workItem from="1534746850593" duration="1697000" />
+      <workItem from="1534748743011" duration="1650000" />
+      <workItem from="1534753253841" duration="1822000" />
+      <workItem from="1534755124856" duration="1778000" />
+      <workItem from="1534756954037" duration="1780000" />
+      <workItem from="1534758785001" duration="1779000" />
+      <workItem from="1534760608501" duration="1077000" />
+      <workItem from="1534775943903" duration="1702000" />
+      <workItem from="1534777767388" duration="1778000" />
+      <workItem from="1534779585533" duration="1779000" />
+      <workItem from="1534781489433" duration="1778000" />
+      <workItem from="1534783308060" duration="1299000" />
+      <workItem from="1535857936777" duration="1540000" />
+      <workItem from="1535859650320" duration="1968000" />
+      <workItem from="1535862209842" duration="1782000" />
+      <workItem from="1535864031902" duration="1991000" />
+      <workItem from="1535876451417" duration="2062000" />
+      <workItem from="1535878564547" duration="807000" />
+      <workItem from="1535943582891" duration="1712000" />
+      <workItem from="1535945346204" duration="1522000" />
+      <workItem from="1535947164937" duration="1780000" />
+      <workItem from="1535949008805" duration="1781000" />
+      <workItem from="1535950832804" duration="1445000" />
+      <workItem from="1535952665192" duration="134000" />
+      <workItem from="1535956965473" duration="756000" />
+      <workItem from="1535959005524" duration="1802000" />
+      <workItem from="1535961276379" duration="1589000" />
+      <workItem from="1535964575154" duration="1710000" />
+      <workItem from="1535966333135" duration="1685000" />
+      <workItem from="1535968265014" duration="1653000" />
+      <workItem from="1536056138783" duration="1682000" />
+      <workItem from="1536057962377" duration="900000" />
+      <workItem from="1536060330462" duration="1772000" />
+      <workItem from="1536062149253" duration="1072000" />
+      <workItem from="1536065427574" duration="1777000" />
+      <workItem from="1536067250626" duration="1776000" />
+      <workItem from="1536069075195" duration="1779000" />
+      <workItem from="1536070895851" duration="1777000" />
+      <workItem from="1536072719863" duration="532000" />
+      <workItem from="1536114382289" duration="1624000" />
+      <workItem from="1536116047319" duration="1783000" />
+      <workItem from="1536117869908" duration="1781000" />
+      <workItem from="1536119703150" duration="1780000" />
+      <workItem from="1536121719048" duration="1644000" />
+      <workItem from="1536123478790" duration="374000" />
+      <workItem from="1536142286237" duration="596000" />
+      <workItem from="1536202890331" duration="1745000" />
+      <workItem from="1536204676337" duration="1342000" />
+      <workItem from="1536206496815" duration="1777000" />
+      <workItem from="1536208327241" duration="1409000" />
+      <workItem from="1536210203757" duration="1732000" />
+      <workItem from="1536211971591" duration="1403000" />
+      <workItem from="1536220853688" duration="1774000" />
+      <workItem from="1536222688899" duration="1776000" />
+      <workItem from="1536225231583" duration="1807000" />
+      <workItem from="1536227079006" duration="1770000" />
+      <workItem from="1536230130987" duration="1415000" />
+      <workItem from="1536231904636" duration="1777000" />
+      <workItem from="1536236983922" duration="1780000" />
+      <workItem from="1536238908524" duration="1658000" />
+      <workItem from="1536240738385" duration="1779000" />
+      <workItem from="1536242561348" duration="1785000" />
+      <workItem from="1536244385728" duration="1780000" />
+      <workItem from="1536246205463" duration="949000" />
+      <workItem from="1536312769493" duration="1288000" />
+      <workItem from="1536314727318" duration="1794000" />
+      <workItem from="1536316667654" duration="1781000" />
+      <workItem from="1536318497070" duration="2289000" />
+      <workItem from="1536322639753" duration="1812000" />
+      <workItem from="1536324493277" duration="1780000" />
+      <workItem from="1536326315336" duration="1782000" />
+      <workItem from="1536328308106" duration="1778000" />
+      <workItem from="1536330265856" duration="1777000" />
+      <workItem from="1536377152018" duration="1727000" />
+      <workItem from="1536378984621" duration="1765000" />
+      <workItem from="1536380829711" duration="1768000" />
+      <workItem from="1536382753075" duration="1777000" />
+      <workItem from="1536385816878" duration="829000" />
+      <workItem from="1536395760625" duration="1769000" />
+      <workItem from="1536397760582" duration="1625000" />
+      <workItem from="1536399694937" duration="1183000" />
+      <workItem from="1536401551030" duration="1776000" />
+      <workItem from="1536403418103" duration="1261000" />
+      <workItem from="1536405245315" duration="625000" />
+      <workItem from="1536411026292" duration="647000" />
+      <workItem from="1536462896575" duration="594000" />
+      <workItem from="1536471609786" duration="1708000" />
+      <workItem from="1536473381278" duration="47000" />
+      <workItem from="1536476474044" duration="1817000" />
+      <workItem from="1536478413351" duration="1359000" />
+      <workItem from="1536483847048" duration="1777000" />
+      <workItem from="1536485767371" duration="881000" />
+      <workItem from="1536488866207" duration="599000" />
+      <workItem from="1536490683890" duration="942000" />
+      <workItem from="1536492505691" duration="923000" />
+      <workItem from="1536547792048" duration="1829000" />
+      <workItem from="1536550027288" duration="1925000" />
+      <workItem from="1536552408765" duration="1780000" />
+      <workItem from="1536554513604" duration="714000" />
+      <workItem from="1536575810179" duration="1835000" />
+      <workItem from="1536577757767" duration="1402000" />
+      <workItem from="1536587441071" duration="1382000" />
+      <workItem from="1536658846682" duration="533000" />
+      <workItem from="1537261577718" duration="681000" />
+      <workItem from="1538049408868" duration="478000" />
+      <workItem from="1538050244547" duration="35000" />
+      <workItem from="1538051412656" duration="610000" />
+      <workItem from="1538052064291" duration="599000" />
+      <workItem from="1538053897434" duration="608000" />
+      <workItem from="1539682446880" duration="70000" />
+      <workItem from="1540275818804" duration="1419000" />
+      <workItem from="1540277578161" duration="838000" />
+      <workItem from="1540288260554" duration="1971000" />
+      <workItem from="1540292507341" duration="1280000" />
+      <workItem from="1540354695027" duration="757000" />
+      <workItem from="1540365089622" duration="1090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="625192000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.075148806" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20131771" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3296875" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/seller/seller.vue</url>
+          <line>269</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="24" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/goods/goods.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4779">
+          <caret line="180" column="32" selection-start-line="180" selection-start-column="10" selection-end-line="180" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/header.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="90" column="26" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2241">
+          <caret line="83" column="7" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ratings/ratings.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/goods/goods.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4779">
+          <caret line="180" column="32" selection-start-line="180" selection-start-column="10" selection-end-line="180" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/header.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="90" column="26" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2133">
+          <caret line="79" column="7" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ratings/ratings.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3618">
+          <caret line="134" column="17" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="90" column="26" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/goods/goods.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4779">
+          <caret line="180" column="32" selection-start-line="180" selection-start-column="10" selection-end-line="180" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3618">
+          <caret line="134" column="17" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="90" column="26" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="34" column="10" lean-forward="true" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3618">
+          <caret line="134" column="17" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="90" column="26" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ratings/ratings.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/goods/goods.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4779">
+          <caret line="180" column="32" selection-start-line="180" selection-start-column="10" selection-end-line="180" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/header.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
